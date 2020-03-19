@@ -1,1 +1,0 @@
-alert('Bienvenue sur mon conference website');
